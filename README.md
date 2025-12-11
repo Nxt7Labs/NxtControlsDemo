@@ -50,7 +50,22 @@ Full commercial versions will include:
 
 <img width="1151" height="718" alt="image" src="https://github.com/user-attachments/assets/0cb6a212-0340-41d1-88d2-4044125e464a" />
 
-3. Make following changes in the dialog or formview header file.
+3. Make project settings changes as below.
+
+<img width="1146" height="624" alt="image" src="https://github.com/user-attachments/assets/010f41e4-da22-48af-878c-6090187008ae" />
+
+<img width="1161" height="626" alt="image" src="https://github.com/user-attachments/assets/3e411e43-a657-4e31-ac51-8fc54b643dda" />
+
+<img width="1177" height="643" alt="image" src="https://github.com/user-attachments/assets/adf4996b-7dad-4417-93d8-6d79801f69f4" />
+
+<img width="1069" height="581" alt="image" src="https://github.com/user-attachments/assets/a4110f8f-c72c-4452-8aca-bac9055243b5" />
+
+<img width="1046" height="572" alt="image" src="https://github.com/user-attachments/assets/24382b06-6ea0-4c7b-bbac-b212cfa29e3c" />
+
+<img width="1088" height="594" alt="image" src="https://github.com/user-attachments/assets/e8d9ae46-fa76-4d01-891e-3088998b73ff" />
+
+  
+5. Make following changes in the dialog or formview header file.
 
 <img width="780" height="761" alt="image" src="https://github.com/user-attachments/assets/5319c2ff-c2a7-4620-92e9-175b6a4c240f" />
 
