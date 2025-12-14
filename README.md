@@ -46,11 +46,16 @@ Full commercial versions will include:
 1. Add a normal MFC button control to your dialog or form view and create a variable as show below.
 <img width="832" height="622" alt="image" src="https://github.com/user-attachments/assets/b58073c1-2510-4de8-bf5a-61396e5ea0b3" />
 
-2.  Must copy Imgs, NxControls, NxtControlsLibd.dll and NxtControlsLib.dll as shown below.
+2. Set the Owner Draw property if Button as TRUE
+
+<img width="1137" height="628" alt="image" src="https://github.com/user-attachments/assets/558b4410-548b-49eb-b46a-22a42e17211c" />
+
+
+3.  Must copy Imgs, NxControls, NxtControlsLibd.dll and NxtControlsLib.dll as shown below.
 
 <img width="1151" height="718" alt="image" src="https://github.com/user-attachments/assets/0cb6a212-0340-41d1-88d2-4044125e464a" />
 
-3. Make project settings changes as below.
+4. Make project settings changes as below.
 
 <img width="1146" height="624" alt="image" src="https://github.com/user-attachments/assets/010f41e4-da22-48af-878c-6090187008ae" />
 
@@ -69,7 +74,7 @@ Full commercial versions will include:
 
 <img width="780" height="761" alt="image" src="https://github.com/user-attachments/assets/5319c2ff-c2a7-4620-92e9-175b6a4c240f" />
 
-4. Make the following initialization as below in the constructor of dialog or formview.
+6. Make the following initialization as below in the constructor of dialog or formview.
 
 <img width="896" height="595" alt="image" src="https://github.com/user-attachments/assets/23185181-c264-4a67-9534-8a952b45b0bb" />
 
