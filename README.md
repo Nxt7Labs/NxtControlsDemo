@@ -1,3 +1,10 @@
+## Keywords
+This repository demonstrates:
+- MFC custom controls
+- Custom MFC button control
+- Owner-drawn MFC UI controls
+- Windows desktop UI controls using MFC
+
 # NxtControlsDemo
 Preview of upcoming customizable MFC UI controls from Nxt7Labs — a lightweight demo showcasing modern native Windows components.
 
